@@ -6,7 +6,7 @@ Que proporcione la **sumatoria máxima** de los (k - i + 1) números consecutivo
 
 ---
 
-## 📌 Ejemplo
+## 📌 Ejercicio
 
 Dado el siguiente arreglo:
 
@@ -14,5 +14,5 @@ Dado el siguiente arreglo:
 |----------|----|----|----|----|----|----|----|---|----|---|
 | Posición |  1 |  2 |  3 |  4 |  5 |  6 |  7 | 8 |  9 |10 |
 
-La **subsecuencia de suma máxima** es:
+
 
